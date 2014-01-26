@@ -1,0 +1,32 @@
+[
+  {
+	  "type": "Feature",
+	  "geometry": {
+		  "type": "Point",
+		  "coordinates": [-122.412, 37.776]
+  	  },
+	  "properties": {
+		  "name": "Mapbox DC",
+		  "employer":"",
+		  "location": "1714 14th St NW, Washington DC",
+		  "card":"",
+		  "marker-color": "#A80FFF",
+		  "marker-size": "medium"
+  		}
+  },
+  {
+	  "type": "Feature",
+	  "geometry": {
+		  "type": "Point",
+		  "coordinates": [-96.414, 39.776]
+	  },
+	  "properties": {
+		  "name": "Will Breitkreutz",
+		  "employer":"U.S. Army Corps of Engineers",
+		  "location": "Kansas City, MO",
+		  "card":"images/willbreitkreutz.jpg",
+		  "marker-color": "#A80FFF",
+		  "marker-size": "medium"
+	  }
+  }
+]
