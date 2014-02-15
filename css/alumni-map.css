@@ -2,6 +2,9 @@
   	margin:0; 
   	padding:0; 
   }
+  p{
+  	margin:0px;
+  }
   
   #map { 
   	position:absolute; 
@@ -28,8 +31,24 @@
   	 overflow:visible;
   }
   
-  h1 { 
+  .head-shot {
+  	position:relative;
+  	right:0px;
+  	top:0px;
+  	width:100%;
+  	max-height:400px;
+  	z-index: -1;
+  }
+  
+  .alumni-name {
+  	font-size:2em;
+  	position:relative;
   	margin-top:0; 
+  }
+  
+  .twitter-handle{
+  	position:relative;
+  	top:10px;
   }
   
   #search {
