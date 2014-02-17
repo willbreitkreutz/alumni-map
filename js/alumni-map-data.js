@@ -19,7 +19,7 @@ var alumniData = {
 	  "address": "601 E. 12th Street, Kansas City, MO",
 	  "card":"",
 	  "pic":"",
-	  "twitter":"tbown",
+	  "twitter":"",
 	  "marker-color": "#A80FFF",
 	  "marker-size": "medium",
       "lat":39.09913, 
