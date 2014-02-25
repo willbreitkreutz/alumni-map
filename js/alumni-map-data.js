@@ -46,5 +46,16 @@ var alumniData = {
       "marker-size": "medium",
       "lat":38.93751,
       "lng":-94.58199
+    },{
+      "id":5,
+      "name": "Patricia Solis",
+      "employer":"Association of American Geographers",
+      "address": "1710 Sixteenth Street NW, Washington DC ",
+      "card":"images/patriciasolis.jpg",
+      "pic":"images/patriciasolispic.jpg",
+      "marker-color": "#A80FFF",
+      "marker-size": "medium",
+      "lat":38.913068,
+      "lng":-77.036964
     }]
  };
